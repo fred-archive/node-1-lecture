@@ -38,4 +38,6 @@ function returnUsers3(){
 }
 
 // console.log(returnUsers3())
-console.log(allUsers())
+// console.log(allUsers())
+
+console.log('fred')
